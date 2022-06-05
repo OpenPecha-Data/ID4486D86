@@ -1,0 +1,32 @@
+id: ID4486D86
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:16:20.975632'
+last_modified: '2022-06-05T20:16:20.975637'
+parser: null
+source_metadata:
+  title: Trulshik Dongak Lingpa Series
+  language: fr
+  description: The following texts are available in our series of texts by and about
+    Trulshik Dongak Lingpa (’khrul zhig mdo sngags gling pa) alias Kunzang Tongdrol
+    Dorje (kun bzang mthong grol rdo rje, 1862–1922), rediscoverer of the Yangti Nakpo
+    cycle of Dzogchen teachings.
+  volume:
+    f902B:
+      title: Brief Offering Prayer to Gesar
+      base_file: f902B.txt
+      order: 1
+      parent: Gesar
+    f2AEF:
+      title: Prayer to the Successive Lives of the Great Trulshik 'Destroyer of Delusion'
+      base_file: f2AEF.txt
+      order: 2
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
